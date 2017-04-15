@@ -1,0 +1,15 @@
+name: "Junior Orienteering Belarus"
+navbar:
+  title: "Юношеское ориентирование РБ"
+  left:
+    - text: "Домой"
+      href: index.html
+    - text: "О проекте"
+      href: about.html
+  right:
+    - icon: fa-envelope
+      href: mailto:juniororienteeringblr@gmail.com
+    - icon: fa-github
+      href: https://github.com/juniororienteeringblr
+output_dir: "."
+include: ["staticfiles/20170415_intro.Rmd"]

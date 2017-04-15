@@ -1,0 +1,11 @@
+---
+title: "Юношеское ориентирование в Беларуси"
+---
+
+<center><h2>Добро пожаловать на страницу проекта!</h2></center>
+
+<center><h3>Скоро здесь появится описание.</h3></center>
+
+***
+
+Проект является частью [juniororienteeringblr](https://github.com/juniororienteeringblr)
